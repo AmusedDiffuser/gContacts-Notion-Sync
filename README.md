@@ -3,7 +3,7 @@
 
 ## *THIS IS UNTESTED ALPHA CODE WRITTEN BY AI, USE WITH CAUTION!*
 
-This is a collab notebook that syncs your Google contacts with a Notion database.
+
 
 ## Table of Contents
 
